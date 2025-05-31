@@ -3,6 +3,7 @@ Captcha Bypass POC with puppeteer
 
 
 🔐 reCAPTCHA Bypass
+
 A Node.js script for bypassing Google reCAPTCHA using the 2Captcha API.
 It automates browser actions via Puppeteer and submits solved tokens programmatically.
 
